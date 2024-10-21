@@ -2,7 +2,6 @@
 // @name          GGBOND
 // @author        Weixian
 // @description   try to take over the world!
-// @namespace     https://krunker.zip
 // @icon         https://p5.itc.cn/images01/20230524/0362148f47864cad81596d569c9b82f3.gif
 // @match         https://krunker.io/*
 // @exclude       https://krunker.io/social.html*
